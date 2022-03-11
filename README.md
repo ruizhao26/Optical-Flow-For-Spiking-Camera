@@ -7,7 +7,7 @@ The dataset includes 100 scenes and each scene describes that different kinds of
 ![Figure 1. SPIkingly Flying Things](https://github.com/Acnext/Optical-Flow-For-Spiking-Camera/blob/main/SPIFT.png)
 ### PHM
 Each scene in the dataset is carefully designed and has a lot in common with the real world as shown in Fig. 2.  Besides, the number of generated spike frames for each scene is shown in Table. 1.
-![Figure 2. Photo-realistic High-speed Motion](https://github.com/Acnext/Optical-Flow-For-Spiking-Camera/blob/main/PHM.jpg)
+![Figure 2. Photo-realistic High-speed Motion](https://github.com/Acnext/Optical-Flow-For-Spiking-Camera/blob/main/PHM.png)
 |Ball|Cook|Dice|Doll|Fan|Fly|Hand|Jump|Poker|Top|
 |--|--|--|--|--|--|--|--|--|--|
 | 1000| 4000|4000|3000|1000|4500|2000|1400|3200|1000|
